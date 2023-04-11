@@ -1,23 +1,7 @@
 ### Hi there 👋
 
-<!--
-**redteamsecurity2023/redteamsecurity2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img height="160" width="640" src="https://user-images.githubusercontent.com/106946476/195957281-202fcf8d-1e06-4302-bcf3-8dd62c4c2529.png" style="max-width: 100%;">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<a href=&quothttps://github.com/ghost1372&quot>
-<img align=&quotcenter&quot src=&quothttps://github-readme-stats.vercel.app/api?username=ghost1372&show_icons=true&count_private=true&include_all_commits=true&quot /></a>
-
-<a href=&quothttps://github.com/ghost1372&quot>
-<img align=&quotcenter&quot src=&quothttps://github-readme-stats.vercel.app/api/top-langs/?username=ghost1372&quot />
-</a>
+<h3>About Me<h3>
+  
+  
